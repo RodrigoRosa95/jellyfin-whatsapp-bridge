@@ -1,0 +1,5 @@
+.env
+node_modules/
+user_phone_map.json
+*-state.json
+*_state.json
